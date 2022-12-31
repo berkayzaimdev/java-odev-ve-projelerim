@@ -6,7 +6,7 @@ Metin classı ve Görüntü classı ise Veri abstract classından kalıtım alı
 ayrıca interface'e de sahip.
 
 #### Ödev 2
-- JavaFX ile zıplayan top uygulaması. Top her kenarlara çarptığında yön değiştiriyor, her tıklandığında ise renk değiştiriyor. Farklı renk değişim metotları bulunmakta.
+- JavaFX ile zıplayan top uygulaması yapımı. Top her kenarlara çarptığında yön değiştiriyor, her tıklandığında ise renk değiştiriyor. Farklı renk değişim metotları bulunmakta.
 
 #### Ödev 3
 - JavaFX ile sayaç yapımı. Artırma, azaltma ve sıfırlama butonları bulunuyor.
